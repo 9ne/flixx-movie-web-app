@@ -1,1 +1,1 @@
-# In this web app i've used the library swipper, fontawesome and google fonts.
+# This sleek and lightweight web app is built with Vanilla JavaScript, HTML, and CSS, leveraging the powerful The Movie Database (TMDB) API. Users can search for movies, view detailed information, and explore trending films with a clean and responsive design. The app dynamically fetches movie data, including posters, ratings, and overviews, ensuring an engaging browsing experience. With a user-friendly interface and smooth performance.
